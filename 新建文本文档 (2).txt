@@ -1,8 +1,0 @@
-src：assers放图片等素材
-        components放组件的
-        router专门放路由
-        store存储数据的
-        views存放视图
-        App.vue项目的入口
-        main.js：全局变量
-        package.json:本项目的配置文件
